@@ -1,5 +1,36 @@
+
+Sec. Info
+
+Files
+
+Adminer
+
+Console
+
+Mail Test
+
+WHMCS Killer
+
+Config Tools
+
+Jumping
+
+Cgi Telnet
+
+Bypass
+
+Network
+
+Domains
+
+Logout
+
+Self Remov
+
+
+pass:wsogren
 - 👋 Hi, I’m @phpShellpub
-- Password:wsogreen
+- Password:wsogren
 - 👀 I’m interested in phpshell ...https://shellpub.net/
 - 🌱 [I’m currently learning](https://shellpub.net/) ...
 - 💞️ I’m looking to collaborate on ...
